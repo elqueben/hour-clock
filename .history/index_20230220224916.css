@@ -1,0 +1,9 @@
+.background {
+    background-color: pink;
+    min-height: 100v;
+            minHeight: "100vh",
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center'
+    
+}

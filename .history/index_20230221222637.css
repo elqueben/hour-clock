@@ -1,0 +1,29 @@
+#background {
+    background-color: pink;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+#container {
+    display: flex;
+    width: 50%;
+}
+
+#hour {
+    padding-right: 25%;
+}
+
+#timer {
+    padding-left: 25%;
+    display: flex;
+    width:fit-content
+    
+}
+
+button {
+    border: none;
+    background-color: pink;
+    font-weight: bold;
+}

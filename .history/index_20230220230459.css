@@ -1,0 +1,19 @@
+#background {
+    background-color: pink;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+#container {
+    display: flex;
+}
+
+#hour {
+    padding-left: ;
+}
+
+#timer {
+    padding-left: 25%;
+}

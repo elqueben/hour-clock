@@ -1,0 +1,9 @@
+.background {
+    background-color: pink;
+    backgroundColor: "pink",
+            minHeight: "100vh",
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center'
+    
+}

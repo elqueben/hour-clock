@@ -1,0 +1,17 @@
+#background {
+    background-color: pink;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+#hour {
+    align-items: 'center';
+    justify-content: center;
+}
+
+#timer {
+    align-items: 'right';
+    justify-content: center;
+}

@@ -1,0 +1,20 @@
+#background {
+    background-color: pink;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+#container {
+    display: flex;
+    maxwidth: 50vh;
+}
+
+#hour {
+    padding-right: 25%;
+}
+
+#timer {
+    padding-left: 25%;
+}

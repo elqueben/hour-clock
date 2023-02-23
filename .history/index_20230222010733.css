@@ -1,0 +1,23 @@
+#background {
+    background-color: pink;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+#hour {
+    padding-right: 15%;
+}
+
+#timer {
+    padding-left: 15%;
+    display: flex;
+}
+
+button {
+    border: none;
+    background-color: pink;
+    font-weight: bold;
+    padding: 1%;
+}

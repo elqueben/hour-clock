@@ -1,0 +1,16 @@
+#background {
+    background-color: pink;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+#container {
+    display: flex;
+    width: 100px;
+}
+
+#timer {
+    padding-left: 10%;
+}
